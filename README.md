@@ -1,4 +1,4 @@
-# Electron + Svelte + TawildinCSS + ShadCN-svelte Template
+# Electron + Svelte + TailwindCSS + ShadCN-svelte Template
 
 ## `Usage`
 ```bash
